@@ -2,7 +2,7 @@
 
 ### 🚀 Junior Software Developer | Based in the Netherlands 🇳🇱 | 🇪🇺 EU Citizen
 
-I am a passionate developer based in the Netherlands. While preparing to start my Computer Science degree at the University of Twente in 2027, I am actively seeking Junior Developer opportunities where I can contribute to a team, apply my skills to real-world projects, and continue growing professionally.
+I am a developer based in the Netherlands. While preparing to begin my Computer Science degree at the University of Twente in 2027, I am actively seeking Junior Developer opportunities where I can contribute to a team, apply my skills to real-world projects, and continue growing professionally.
 
 **No visa sponsorship required (EU Citizen).**
 

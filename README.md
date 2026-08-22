@@ -19,5 +19,5 @@ I am a passionate developer with a 3-year foundational software education. I rec
 *   **Technologies:** React, Node.js, Git, PostgreSQL, MongoDB
 
 ### 📫 Let's Connect!
-*   **LinkedIn:** ege
-*   **Email:** ege
+*   **LinkedIn:** https://github.com/egebayramakgun
+*   **Email:** egecontact@icloud.com
